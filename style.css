@@ -1,0 +1,98 @@
+*{
+    margin:0 ;
+    padding: 0;
+    font-family: "Poppins",sans-serif;
+    box-sizing: border-box;
+}
+body {
+ background-image: url(pngtree-blue-and-green-shield-icon-3d-rendering-symbolizes-data-protection-safety-image_3682308.jpg);
+ background-repeat: no-repeat;
+background-size: cover;
+   
+
+}
+.img1 input{
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 20px;   
+    
+}
+
+.back{
+    color: #fff;
+    margin: 10%;
+    width: 90%;
+    max-width: 700px;
+    padding: 30px;
+    border-radius: 10px;
+
+
+
+}
+.display{
+    width: 80%;
+    height: 40px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 26px 20px;
+    border-radius:5px ;
+    
+}
+.back h1{
+    color: #fff;
+    font-weight: 500;
+    font-size: 45px;
+}
+ .back h1 span{
+    color: green;
+    border-bottom: 4px solid green;
+    padding-bottom:7px;
+}
+
+.display input{
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 20px;
+}
+.display img{
+width: 20px;   
+height: 25px;
+    
+}
+    
+button{
+    
+    background-color: green;
+    color: #fff;
+    
+    padding: px;
+    border-radius: 5px;
+    border: none;
+    width: 34%;
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    font-size: 1rem;
+    gap: 4px;
+}
+button img{
+    width: 20px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+   
+
+
+
+} 
